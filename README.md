@@ -1,2 +1,2 @@
 # hello-world
-This is the tutorial, just an intro.
+I am here because I don't like to leave things undone.  My interests are c, c++, python, machine learning, iot, and manufacturing.
